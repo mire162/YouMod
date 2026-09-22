@@ -1,0 +1,16 @@
+{
+  "name": "My YouMod",
+  "identifier": "com.yourname.youmod",
+  "apps": [
+    {
+      "name": "YouMod",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "mire162",
+      "version": "21.38.2",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://github.com/mire162/YouMod/releases/download/youmod-ipa1/YouMod_21.38.2_v2.0.0.ipa",
+      "localizedDescription": "Gonerino 알림 제거 버전 YouMod",
+      "size": 125000000
+    }
+  ]
+}
