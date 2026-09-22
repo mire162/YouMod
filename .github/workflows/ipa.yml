@@ -269,7 +269,7 @@ jobs:
 
       - name: Clone Gonerino
         if: ${{ inputs.gonerino }}
-        run: git clone --quiet --depth=1 https://github.com/castdrian/Gonerino.git
+        run: git clone --quiet --depth=1 https://github.com/mire162/Gonerino.git
 
       - name: Clone youtube-native-share
         if: ${{ inputs.ytshare }}
