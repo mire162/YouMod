@@ -6,15 +6,20 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "mire162",
-      "subtitle": "Patched YouTube",
       "localizedDescription": "Personal patched YouTube",
+      "subtitle": "Patched YouTube",
       "versions": [
         {
-          "version": "2.0.0",
+          "version": "21.38.2",
           "date": "2026-09-23T00:00:00Z",
+          "size": 0,
           "downloadURL": "https://github.com/mire162/YouMod/releases/download/youmod-ipa2/YouMod_21.38.2_v2.0.0.ipa"
         }
-      ]
+      ],
+      "version": "21.38.2",
+      "versionDate": "2026-09-23T00:00:00Z",
+      "size": 130682367,
+      "downloadURL": "https://github.com/mire162/YouMod/releases/download/youmod-ipa2/YouMod_21.38.2_v2.0.0.ipa"
     }
   ]
 }
