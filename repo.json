@@ -1,8 +1,8 @@
 {
-  "name": "YouTube",
+  "name": "YouTube Repo",
   "identifier": "com.mire162.youtube.repo",
   "subtitle": "Personal patched YouTube",
-  "description": "Personal YouTube IPA repository.",
+  "description": "Personal patched YouTube IPA repository.",
   "apps": [
     {
       "name": "YouTube",
@@ -14,11 +14,15 @@
         {
           "version": "21.38.2",
           "date": "2026-09-23T00:00:00Z",
-          "downloadURL": "https://github.com/mire162/YouMod/releases/download/youmod-ipa2/YouMod_21.38.2_v2.0.0.ipa",
-          "size": 130682367
+          "size": 130682367,
+          "downloadURL": "https://github.com/mire162/YouMod/releases/download/youmod-ipa2/YouMod_21.38.2_v2.0.0.ipa"
         }
       ],
-      "appPermissions": {}
+      "appPermissions": {},
+      "version": "21.38.2",
+      "versionDate": "2026-09-23T00:00:00Z",
+      "size": 130682367,
+      "downloadURL": "https://github.com/mire162/YouMod/releases/download/youmod-ipa2/YouMod_21.38.2_v2.0.0.ipa"
     }
   ]
 }
