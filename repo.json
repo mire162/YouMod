@@ -2,7 +2,7 @@
   "name": "YouTube Repo",
   "identifier": "com.mire162.youtube.repo",
   "subtitle": "Personal patched YouTube",
-  "description": "Personal patched YouTube IPA repository.",
+  "description": "Personal YouTube IPA repository.",
   "apps": [
     {
       "name": "YouTube",
